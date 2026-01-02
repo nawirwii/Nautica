@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-const rootDomain = "nautica-5p5.pages.dev"; // Ganti dengan domain utama kalian
-const serviceName = "nautica-5p5.pages.dev"; // Ganti dengan nama workers kalian
+const rootDomain = "pages.dev"; // Ganti dengan domain utama kalian
+const serviceName = "nautica-5p5"; // Ganti dengan nama workers kalian
 const apiKey = "2a197a96ebe47f5ff144dd2774e099501e455"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "radmonvpn@teacher.semar.edu.pl"; // Ganti dengan email yang kalian gunakan
 const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
